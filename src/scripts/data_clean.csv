@@ -1,151 +1,151 @@
-ID,Data,Produto,Categoria,Quantidade,Preço
-1,2023-07-29,Óculos,Acessórios,1.0,4828.11
-2,2023-09-15,Camiseta,Categoria Desconhecida,2.0,2868.37
-3,2023-12-16,Mochila,Acessórios,4.0,3484.39
-4,2023-06-24,Óculos,Acessórios,2.0,2654.6400000000003
-5,2023-10-08,Camiseta,Vestuário,4.0,3937.49
-6,2023-07-25,Mochila,Acessórios,1.0,1828.78
-7,2023-02-02,Óculos,Acessórios,1.0,2654.6400000000003
-8,2023-05-17,Notebook,Eletrônicos,2.0,2969.16
-9,2023-04-25,Tênis,Vestuário,1.0,3363.11
-10,2023-12-15,Notebook,Eletrônicos,1.0,1297.03
-11,2023-04-05,Mochila,Acessórios,3.0,2745.48
-12,2023-07-30,Óculos,Acessórios,1.0,4857.77
-13,2023-04-05,Fone de Ouvido,Eletrônicos,1.0,2654.6400000000003
-14,2023-10-21,Mochila,Acessórios,5.0,2704.59
-15,2023-11-21,Relógio,Acessórios,1.0,2292.45
-16,2023-03-31,Camiseta,Vestuário,1.0,1929.32
-17,2023-08-28,Produto Desconhecido,Eletrônicos,3.0,3064.82
-18,2023-01-08,Fone de Ouvido,Eletrônicos,1.0,3396.09
-19,2023-09-30,Fone de Ouvido,Eletrônicos,1.0,3058.78
-20,2023-08-25,Calça,Vestuário,4.0,3253.15
-21,2023-06-30,Tênis,Vestuário,4.0,2172.28
-22,2023-01-12,Fone de Ouvido,Eletrônicos,1.0,1928.63
-23,2023-10-16,Calça,Vestuário,1.0,1112.65
-24,2023-06-10,Camiseta,Categoria Desconhecida,4.0,2491.81
-25,2023-09-15,Notebook,Eletrônicos,2.0,536.68
-26,2023-03-18,Smartphone,Eletrônicos,3.0,2981.06
-27,2023-08-26,Fone de Ouvido,Eletrônicos,3.0,3006.32
-28,2023-06-14,Relógio,Acessórios,5.0,4095.03
-29,2023-07-04,Mochila,Acessórios,1.0,2266.35
-30,2023-04-13,Fone de Ouvido,Eletrônicos,4.0,2893.73
-31,2023-06-09,Notebook,Eletrônicos,4.0,4806.8
-32,2023-02-18,Smartphone,Eletrônicos,1.0,719.29
-33,2023-01-29,Mochila,Acessórios,3.0,1202.36
-34,2023-04-21,Fone de Ouvido,Eletrônicos,3.0,3250.69
-35,2023-04-30,Óculos,Acessórios,5.0,1573.55
-36,2023-01-09,Calça,Vestuário,1.0,1672.89
-37,2023-03-21,Calça,Vestuário,1.0,962.69
-38,2023-01-06,Mochila,Acessórios,1.0,1354.78
-39,2023-05-31,Camiseta,Vestuário,5.0,3665.41
-40,2023-12-27,Smartphone,Eletrônicos,4.0,4694.6
-41,2023-01-27,Mochila,Acessórios,4.0,106.47
-42,2023-11-28,Fone de Ouvido,Eletrônicos,2.0,3414.63
-43,2023-08-12,Óculos,Acessórios,3.0,3637.86
-44,2023-03-13,Produto Desconhecido,Vestuário,5.0,2351.85
-45,2023-10-09,Camiseta,Vestuário,2.0,4154.57
-46,2023-05-04,Camiseta,Vestuário,3.0,461.29
-47,2023-07-09,Notebook,Eletrônicos,1.0,3733.23
-48,2023-03-02,Produto Desconhecido,Vestuário,4.0,2261.86
-49,2023-05-31,Notebook,Eletrônicos,3.0,2780.21
-50,2023-05-03,Mochila,Acessórios,4.0,2659.13
-51,2023-04-13,Fone de Ouvido,Eletrônicos,2.0,2187.1
-52,2023-06-23,Mochila,Acessórios,1.0,2224.68
-53,2023-12-01,Camiseta,Vestuário,1.0,4328.86
-54,2023-11-15,Calça,Categoria Desconhecida,4.0,1054.51
-55,2023-01-09,Notebook,Eletrônicos,5.0,3273.17
-56,2023-02-01,Tênis,Vestuário,2.0,208.08
-57,2023-05-20,Tênis,Vestuário,5.0,2346.49
-58,2023-11-14,Mochila,Acessórios,2.0,3730.68
-59,2023-11-15,Tênis,Vestuário,4.0,1488.5
-60,2023-08-07,Fone de Ouvido,Eletrônicos,3.0,3511.33
-61,2023-09-05,Tênis,Vestuário,4.0,1084.13
-62,2023-03-25,Camiseta,Vestuário,1.0,838.9
-63,2023-08-11,Fone de Ouvido,Eletrônicos,2.0,2891.86
-64,2023-01-10,Tênis,Vestuário,1.0,4813.74
-65,2023-04-12,Calça,Vestuário,1.0,3016.29
-66,2023-04-09,Óculos,Acessórios,3.0,94.25
-67,2023-09-02,Calça,Vestuário,2.0,1298.05
-68,2023-10-16,Smartphone,Eletrônicos,5.0,1464.31
-69,2023-12-21,Mochila,Acessórios,3.0,683.63
-70,2023-08-21,Óculos,Acessórios,4.0,4971.74
-71,2023-02-15,Camiseta,Categoria Desconhecida,2.0,2301.4
-72,2023-07-31,Relógio,Categoria Desconhecida,1.0,2654.6400000000003
-73,2023-04-17,Smartphone,Eletrônicos,5.0,494.23
-74,2023-10-08,Fone de Ouvido,Eletrônicos,3.0,1822.9
-75,2023-12-11,Tênis,Categoria Desconhecida,2.0,534.34
-76,2023-10-06,Calça,Vestuário,3.0,4705.86
-77,2023-03-13,Tênis,Vestuário,3.0,4211.29
-78,2023-08-30,Relógio,Acessórios,1.0,3426.24
-79,2023-11-07,Fone de Ouvido,Eletrônicos,1.0,543.92
-80,2023-01-10,Produto Desconhecido,Vestuário,5.0,2741.6
-81,2023-01-12,Relógio,Acessórios,2.0,473.23
-82,2023-05-14,Calça,Vestuário,4.0,1359.79
-83,2023-02-08,Tênis,Vestuário,4.0,3177.67
-84,2023-01-29,Notebook,Eletrônicos,5.0,1734.71
-85,2023-12-28,Notebook,Eletrônicos,1.0,4229.89
-86,2023-06-13,Tênis,Vestuário,3.0,441.32
-87,2023-05-07,Notebook,Eletrônicos,3.0,898.17
-88,2023-09-11,Calça,Vestuário,2.0,3333.55
-89,2023-04-17,Óculos,Acessórios,2.0,1812.94
-90,2023-05-03,Óculos,Acessórios,4.0,4582.33
-91,2023-06-13,Notebook,Eletrônicos,3.0,712.17
-92,2023-02-22,Smartphone,Eletrônicos,4.0,717.24
-93,2023-08-28,Notebook,Eletrônicos,1.0,1742.86
-94,2023-07-27,Tênis,Vestuário,3.0,774.24
-95,2023-06-08,Produto Desconhecido,Vestuário,3.0,2558.16
-96,2023-04-04,Notebook,Eletrônicos,1.0,4815.06
-97,2023-07-22,Relógio,Acessórios,5.0,2088.85
-98,2023-09-29,Fone de Ouvido,Eletrônicos,1.0,3684.19
-99,2023-07-01,Camiseta,Vestuário,1.0,2728.0
-100,2023-05-03,Relógio,Acessórios,5.0,3170.52
-101,2023-05-24,Mochila,Acessórios,1.0,475.93
-102,2023-11-23,Camiseta,Vestuário,2.0,404.68
-103,2023-02-03,Notebook,Eletrônicos,5.0,4081.25
-104,2023-04-14,Relógio,Acessórios,3.0,3107.38
-105,2023-11-07,Mochila,Acessórios,5.0,2726.47
-106,2023-07-03,Tênis,Vestuário,5.0,4297.43
-107,2023-04-23,Óculos,Acessórios,1.0,753.66
-108,2023-10-16,Mochila,Acessórios,3.0,2649.11
-109,2023-12-18,Tênis,Vestuário,1.0,1861.95
-110,2023-09-30,Smartphone,Eletrônicos,1.0,1605.65
-111,2023-01-19,Fone de Ouvido,Eletrônicos,2.0,2790.51
-112,2023-03-17,Óculos,Acessórios,4.0,4832.6
-113,2023-02-04,Mochila,Acessórios,4.0,2460.38
-114,2023-09-08,Tênis,Vestuário,4.0,747.12
-115,2023-10-17,Smartphone,Eletrônicos,1.0,749.73
-116,2023-11-28,Óculos,Categoria Desconhecida,4.0,2325.13
-117,2023-03-14,Tênis,Vestuário,1.0,3278.25
-118,2023-02-17,Mochila,Acessórios,2.0,1519.47
-119,2023-06-02,Tênis,Vestuário,1.0,1540.01
-120,2023-08-13,Mochila,Categoria Desconhecida,5.0,4630.96
-121,2023-04-08,Óculos,Acessórios,4.0,2654.6400000000003
-122,2023-07-18,Óculos,Acessórios,1.0,4065.25
-123,2023-03-30,Fone de Ouvido,Eletrônicos,2.0,3106.89
-124,2023-12-11,Camiseta,Vestuário,3.0,4805.38
-125,2023-06-18,Notebook,Eletrônicos,4.0,4301.66
-126,2023-12-20,Tênis,Vestuário,2.0,689.06
-127,2023-12-31,Notebook,Eletrônicos,1.0,50.75
-128,2023-10-11,Mochila,Acessórios,1.0,192.45
-129,2023-10-06,Óculos,Acessórios,3.0,3071.43
-130,2023-02-02,Smartphone,Eletrônicos,5.0,999.2
-131,2023-09-18,Smartphone,Eletrônicos,1.0,1954.56
-132,2023-05-25,Notebook,Eletrônicos,4.0,3368.1
-133,2023-01-27,Produto Desconhecido,Vestuário,4.0,4774.22
-134,2023-06-10,Produto Desconhecido,Vestuário,5.0,2654.6400000000003
-135,2023-09-11,Relógio,Acessórios,5.0,3202.05
-136,2023-03-30,Óculos,Acessórios,1.0,2795.95
-137,2023-11-22,Calça,Vestuário,4.0,3123.99
-138,2023-09-14,Camiseta,Vestuário,4.0,4481.7
-139,2023-02-03,Smartphone,Eletrônicos,5.0,2650.15
-140,2023-08-03,Fone de Ouvido,Eletrônicos,3.0,796.26
-141,2023-06-28,Fone de Ouvido,Eletrônicos,3.0,3091.54
-142,2023-10-01,Fone de Ouvido,Eletrônicos,2.0,1493.85
-143,2023-11-16,Mochila,Acessórios,1.0,2654.6400000000003
-144,2023-03-13,Smartphone,Eletrônicos,4.0,3882.94
-145,2023-08-12,Produto Desconhecido,Vestuário,3.0,59.09
-146,2023-02-13,Smartphone,Eletrônicos,5.0,2787.73
-147,2023-04-11,Calça,Vestuário,1.0,345.11
-148,2023-07-14,Mochila,Acessórios,2.0,4358.01
-149,2023-07-19,Relógio,Acessórios,2.0,3981.78
-150,2023-03-10,Óculos,Acessórios,5.0,509.93
+ID,Data,Produto,Categoria,Quantidade,Preço_unitario
+1,2023-05-16,Calça,Vestuário,1.0,1422.6
+2,2023-02-20,Óculos,Acessórios,1.0,605.5
+3,2023-04-08,Óculos,Acessórios,4.0,754.04
+4,2023-02-11,Notebook,Eletrônicos,1.0,4530.43
+5,2023-01-06,Relógio,Acessórios,3.0,116.21
+6,2023-04-16,Produto Desconhecido,Vestuário,2.0,3227.35
+7,2023-02-20,Calça,Vestuário,1.0,2763.1
+8,2023-11-03,Fone de Ouvido,Eletrônicos,3.0,52.94
+9,2023-01-30,Óculos,Acessórios,4.0,2322.68
+10,2023-11-05,Óculos,Acessórios,4.0,4309.51
+11,2023-04-28,Óculos,Acessórios,2.0,1015.85
+12,2023-06-06,Calça,Vestuário,3.0,4235.03
+13,2023-12-10,Notebook,Eletrônicos,1.0,1278.34
+14,2023-05-22,Produto Desconhecido,Acessórios,1.0,2324.16
+15,2023-07-12,Produto Desconhecido,Acessórios,1.0,1230.86
+16,2023-12-13,Fone de Ouvido,Eletrônicos,3.0,687.85
+17,2023-01-02,Calça,Vestuário,4.0,2074.34
+18,2023-01-11,Fone de Ouvido,Eletrônicos,3.0,3853.0
+19,2023-06-01,Produto Desconhecido,Eletrônicos,1.0,2535.66
+20,2023-12-20,Mochila,Acessórios,2.0,4849.58
+21,2023-02-16,Camiseta,Vestuário,2.0,4484.09
+22,2023-05-21,Notebook,Eletrônicos,5.0,1761.8
+23,2023-01-09,Smartphone,Eletrônicos,4.0,2870.61
+24,2023-06-21,Fone de Ouvido,Eletrônicos,4.0,3607.66
+25,2023-01-02,Camiseta,Vestuário,2.0,475.66
+26,2023-02-09,Mochila,Acessórios,5.0,2528.17
+27,2023-07-09,Notebook,Eletrônicos,4.0,1028.38
+28,2023-05-03,Relógio,Acessórios,2.0,4828.64
+29,2023-12-19,Smartphone,Eletrônicos,2.0,431.1
+30,2023-10-16,Smartphone,Eletrônicos,3.0,2736.72
+31,2023-04-03,Relógio,Acessórios,4.0,4264.57
+32,2023-10-11,Smartphone,Eletrônicos,4.0,474.26
+33,2023-02-16,Produto Desconhecido,Vestuário,2.0,3233.99
+34,2023-04-25,Camiseta,Vestuário,2.0,4487.69
+35,2023-02-21,Notebook,Categoria Desconhecida,1.0,1319.3
+36,2023-07-09,Camiseta,Vestuário,5.0,2352.33
+37,2023-09-10,Notebook,Eletrônicos,1.0,1719.62
+38,2023-11-16,Smartphone,Eletrônicos,4.0,2921.1
+39,2023-03-05,Calça,Vestuário,3.0,1096.19
+40,2023-09-25,Tênis,Vestuário,3.0,496.11
+41,2023-10-16,Relógio,Acessórios,4.0,4441.37
+42,2023-04-16,Smartphone,Eletrônicos,4.0,4858.36
+43,2023-04-03,Smartphone,Eletrônicos,4.0,2578.16
+44,2023-12-08,Notebook,Eletrônicos,3.0,2896.17
+45,2023-09-28,Notebook,Eletrônicos,5.0,2639.17
+46,2023-08-07,Relógio,Acessórios,5.0,4175.89
+47,2023-04-23,Camiseta,Vestuário,3.0,3229.6
+48,2023-09-26,Fone de Ouvido,Eletrônicos,3.0,2006.06
+49,2023-08-31,Camiseta,Vestuário,1.0,188.94
+50,2023-07-17,Mochila,Acessórios,4.0,2461.8
+51,2023-10-14,Mochila,Acessórios,2.0,2322.68
+52,2023-03-19,Smartphone,Eletrônicos,4.0,1942.27
+53,2023-02-10,Notebook,Eletrônicos,1.0,275.92
+54,2023-01-04,Mochila,Acessórios,2.0,450.1
+55,2023-09-26,Óculos,Acessórios,2.0,2302.64
+56,2023-04-27,Camiseta,Vestuário,1.0,3846.35
+57,2023-04-08,Calça,Vestuário,1.0,266.93
+58,2023-05-25,Mochila,Categoria Desconhecida,3.0,4425.63
+59,2023-11-08,Notebook,Eletrônicos,3.0,4985.92
+60,2023-09-09,Calça,Vestuário,3.0,3167.79
+61,2023-11-23,Mochila,Acessórios,1.0,3923.22
+62,2023-05-23,Calça,Vestuário,5.0,3008.51
+63,2023-09-05,Mochila,Acessórios,2.0,1655.12
+64,2023-04-02,Smartphone,Eletrônicos,4.0,2628.1
+65,2023-12-17,Óculos,Acessórios,1.0,1752.65
+66,2023-08-04,Camiseta,Vestuário,3.0,3346.94
+67,2023-05-02,Smartphone,Eletrônicos,2.0,2096.62
+68,2023-03-22,Tênis,Vestuário,5.0,2322.68
+69,2023-10-22,Relógio,Acessórios,1.0,3061.45
+70,2023-05-14,Fone de Ouvido,Eletrônicos,5.0,2322.68
+71,2023-10-12,Óculos,Acessórios,5.0,1542.46
+72,2023-03-30,Notebook,Eletrônicos,1.0,2835.51
+73,2023-09-08,Mochila,Acessórios,3.0,2153.15
+74,2023-07-03,Tênis,Vestuário,4.0,2919.82
+75,2023-11-21,Smartphone,Eletrônicos,1.0,239.2
+76,2023-08-03,Produto Desconhecido,Eletrônicos,1.0,4741.08
+77,2023-01-23,Tênis,Vestuário,1.0,4899.93
+78,2023-01-07,Óculos,Acessórios,1.0,3259.45
+79,2023-02-23,Camiseta,Vestuário,4.0,1870.12
+80,2023-11-29,Mochila,Acessórios,2.0,1654.21
+81,2023-01-15,Camiseta,Vestuário,4.0,208.45
+82,2023-04-21,Fone de Ouvido,Eletrônicos,1.0,471.71
+83,2023-12-06,Camiseta,Vestuário,4.0,2322.68
+84,2023-11-29,Óculos,Acessórios,1.0,4163.28
+85,2023-10-27,Fone de Ouvido,Eletrônicos,1.0,835.35
+86,2023-01-15,Calça,Vestuário,5.0,1860.95
+87,2023-09-13,Calça,Vestuário,1.0,2321.2
+88,2023-07-25,Notebook,Categoria Desconhecida,4.0,4474.31
+89,2023-12-02,Relógio,Categoria Desconhecida,4.0,1510.75
+90,2023-11-03,Camiseta,Vestuário,4.0,2726.29
+91,2023-05-21,Notebook,Eletrônicos,4.0,3214.71
+92,2023-04-06,Fone de Ouvido,Eletrônicos,2.0,2546.31
+93,2023-11-15,Notebook,Eletrônicos,4.0,3201.31
+94,2023-02-17,Relógio,Acessórios,2.0,1241.84
+95,2023-11-12,Camiseta,Vestuário,1.0,1555.34
+96,2023-06-26,Smartphone,Eletrônicos,1.0,1934.9
+97,2023-06-24,Camiseta,Vestuário,1.0,4225.99
+98,2023-12-27,Tênis,Vestuário,4.0,4111.99
+99,2023-12-04,Smartphone,Categoria Desconhecida,3.0,57.33
+100,2023-12-31,Camiseta,Vestuário,2.0,1952.29
+101,2023-01-08,Camiseta,Vestuário,1.0,1336.66
+102,2023-05-24,Óculos,Acessórios,2.0,381.29
+103,2023-02-13,Produto Desconhecido,Eletrônicos,4.0,4860.65
+104,2023-06-12,Fone de Ouvido,Eletrônicos,1.0,1603.86
+105,2023-12-24,Calça,Vestuário,1.0,2903.95
+106,2023-11-11,Mochila,Acessórios,4.0,3728.24
+107,2023-10-12,Mochila,Acessórios,2.0,2322.68
+108,2023-09-03,Tênis,Vestuário,2.0,1277.15
+109,2023-11-01,Calça,Vestuário,2.0,4546.24
+110,2023-11-04,Smartphone,Eletrônicos,5.0,937.22
+111,2023-05-07,Notebook,Eletrônicos,4.0,4954.54
+112,2023-04-21,Camiseta,Vestuário,1.0,1214.2
+113,2023-12-31,Óculos,Acessórios,4.0,2212.62
+114,2023-08-12,Produto Desconhecido,Eletrônicos,1.0,2009.31
+115,2023-12-29,Tênis,Vestuário,1.0,4506.51
+116,2023-09-22,Calça,Vestuário,3.0,2322.68
+117,2023-02-03,Relógio,Acessórios,4.0,1591.55
+118,2023-03-05,Relógio,Acessórios,5.0,344.63
+119,2023-09-29,Calça,Vestuário,2.0,596.29
+120,2023-04-02,Smartphone,Eletrônicos,4.0,4826.2
+121,2023-06-30,Camiseta,Vestuário,1.0,911.33
+122,2023-06-27,Notebook,Eletrônicos,1.0,2499.03
+123,2023-09-01,Notebook,Eletrônicos,5.0,1262.74
+124,2023-02-23,Camiseta,Vestuário,2.0,1458.72
+125,2023-01-21,Smartphone,Eletrônicos,2.0,4605.86
+126,2023-05-22,Tênis,Vestuário,5.0,3125.32
+127,2023-08-22,Notebook,Eletrônicos,3.0,150.04
+128,2023-09-30,Smartphone,Eletrônicos,1.0,4747.81
+129,2023-12-24,Smartphone,Eletrônicos,1.0,2028.12
+130,2023-05-26,Relógio,Acessórios,4.0,4264.71
+131,2023-03-04,Notebook,Eletrônicos,5.0,4238.16
+132,2023-01-13,Óculos,Acessórios,5.0,1931.09
+133,2023-10-18,Óculos,Acessórios,3.0,436.65
+134,2023-03-24,Calça,Vestuário,1.0,4543.37
+135,2023-03-14,Notebook,Eletrônicos,3.0,2762.5
+136,2023-03-07,Relógio,Categoria Desconhecida,3.0,721.75
+137,2023-05-16,Tênis,Vestuário,3.0,3543.94
+138,2023-03-11,Smartphone,Eletrônicos,3.0,3575.12
+139,2023-11-09,Óculos,Acessórios,5.0,4489.51
+140,2023-01-27,Relógio,Acessórios,1.0,2328.73
+141,2023-07-28,Óculos,Acessórios,2.0,3045.97
+142,2023-03-29,Smartphone,Eletrônicos,1.0,1744.48
+143,2023-11-05,Notebook,Eletrônicos,2.0,2225.07
+144,2023-01-09,Smartphone,Categoria Desconhecida,1.0,1361.64
+145,2023-11-13,Smartphone,Eletrônicos,2.0,4557.89
+146,2023-08-18,Óculos,Acessórios,4.0,1333.04
+147,2023-02-25,Calça,Vestuário,5.0,759.31
+148,2023-10-30,Fone de Ouvido,Categoria Desconhecida,3.0,3177.15
+149,2023-08-10,Smartphone,Eletrônicos,2.0,1551.0
+150,2023-10-09,Smartphone,Eletrônicos,3.0,3261.74

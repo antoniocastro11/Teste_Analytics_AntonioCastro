@@ -31,13 +31,13 @@ for i in range(numRegistros):
 
     dados.append([i + 1, data_venda.date(), produto, categoria, quantidade, preco])
 
-    df = pd.DataFrame(dados, columns=['ID', 'Data', 'Produto', 'Categoria', 'Quantidade', 'Preço'])
+    df = pd.DataFrame(dados, columns=['ID', 'Data', 'Produto', 'Categoria', 'Quantidade', 'Preço_unitario'])
 
 
 duplicados = df.sample(frac=0.05, random_state=1)
 df = pd.concat([df, duplicados], ignore_index=True)
 
-for col in['Produto', 'Categoria', 'Preço']:
+for col in['Produto', 'Categoria', 'Preço_unitario']:
     indicesNulos = df.sample(frac=0.05, random_state=random.randint(1, 100)).index
     df.loc[indicesNulos, col] = np.nan
 
