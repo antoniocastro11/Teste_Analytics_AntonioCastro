@@ -1,4 +1,4 @@
-# Projeto de Análise de Vendas — 2023 - Teste Quod
+# Projeto de Análise de Vendas - Teste técnico Quod
 
 ## Antonio G. Castro
 
